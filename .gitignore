@@ -1,0 +1,28 @@
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Node modules
+frontend/node_modules/
+frontend/.expo/
+frontend/package-lock.json
+frontend/web-build/
+
+# Python cache
+backend/__pycache__/
+backend/venv/
+backend/.venv/
