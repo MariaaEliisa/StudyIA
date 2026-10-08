@@ -539,25 +539,6 @@ Este projeto foi desenvolvido como trabalho acadêmico para demonstrar:
 
 ---
 
-## 🎯 Próximos Passos
-
-- [ ] Testar o sistema completo (backend + frontend)
-- [ ] (Opcional) Deploy em nuvem (Render, Railway, etc.)
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença **MIT**. Sinta-se à vontade para usar, modificar e compartilhar.
-
----
-
-## 👨‍💻 Desenvolvido por
-
-[Seu Nome] - [Sua Instituição]
-
----
-
 ## 📞 Suporte
 
 Para dúvidas ou problemas, consulte a documentação do [FastAPI](https://fastapi.tiangolo.com/) e do [Google AI](https://ai.google.dev/docs).
